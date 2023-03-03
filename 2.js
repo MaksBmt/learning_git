@@ -1,1 +1,3 @@
-console.log('test');
+function getPerson(name, surname) {
+  return name + " " + surname;
+}
