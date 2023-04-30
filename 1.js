@@ -2,4 +2,5 @@ function addNumber(a, b) {
   return a - b;
 }
 
-var a = 42;
+const a = 12;
+const b = 21;
